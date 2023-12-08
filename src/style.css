@@ -64,3 +64,40 @@ img {
 .info-img {
   margin-top: 30px;
 }
+.footer {
+  text-align: center;
+  border: #48b0a0 solid 0.1px;
+  border-radius: 6px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.email {
+  text-decoration: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
+  text-align: center;
+  margin-left: -10px;
+}
+email.hover {
+  color: #48b0a0;
+}
+.fa-brands {
+  color: #ffffff;
+  font-size: 25px;
+  margin-right: 60px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 40px;
+}
+.icons,
+.closing-tag {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
